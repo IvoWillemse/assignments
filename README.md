@@ -11,6 +11,6 @@ this repository contains my assignments
 
 [assignment 6](https://github.com/IvoWillemse/assignments/blob/master/Graded_assignment_2.ipynb)
 
-[final assignment R]()
+[final assignment R](https://github.com/IvoWillemse/assignments/blob/master/Exam_student.ipynb)
 
-[final assignment Python]()
+[final assignment Python](https://github.com/IvoWillemse/assignments/blob/master/exam_june_7_2018.ipynb)
